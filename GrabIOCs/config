@@ -1,0 +1,8 @@
+{
+    "Appkey":"24634572",
+    "Appsecert":"812d078fe8143e529599f9d6689a6046",
+    "Token":"b20a8aa3-8301-4429-a2ec-d61b04335778",
+    "Type":["feed_ipv4","feed_domain","feed_url","feed_hash-md5","feed_hash-sha1","feed_hash-sha256"],
+    "SetName":"",
+    "ScoreLevel":""
+}
